@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F64963FB-C6B5-49DC-A7D9-BE9285F802ED"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA078EB8-C20A-49B2-A236-A4F1557E9D7C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssessmentPrashantAdvait/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "collectionView(_:layout:sizeForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FA078EB8-C20A-49B2-A236-A4F1557E9D7C - c995bf7c8121481"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssessmentPrashantAdvait.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AssessmentPrashantAdvait.ViewController"
+                  moduleName = "AssessmentPrashantAdvait"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rlogixxtraining/Desktop/OBJC/AssessmentPrashantAdvait/AssessmentPrashantAdvait/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "213"
+                  endingLineNumber = "213"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "FA078EB8-C20A-49B2-A236-A4F1557E9D7C - 352c9a4dae2390ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssessmentPrashantAdvait.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AssessmentPrashantAdvait.ViewController&gt;"
+                  moduleName = "AssessmentPrashantAdvait"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rlogixxtraining/Desktop/OBJC/AssessmentPrashantAdvait/AssessmentPrashantAdvait/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "213"
+                  endingLineNumber = "213"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "381A8B6F-00D1-496C-8E11-34D6A4B0BBC6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssessmentPrashantAdvait/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "collectionView(_:layout:sizeForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "381A8B6F-00D1-496C-8E11-34D6A4B0BBC6 - c995bf7c8121481"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssessmentPrashantAdvait.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AssessmentPrashantAdvait.ViewController"
+                  moduleName = "AssessmentPrashantAdvait"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rlogixxtraining/Desktop/OBJC/AssessmentPrashantAdvait/AssessmentPrashantAdvait/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "213"
+                  endingLineNumber = "213"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "381A8B6F-00D1-496C-8E11-34D6A4B0BBC6 - 352c9a4dae2390ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssessmentPrashantAdvait.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AssessmentPrashantAdvait.ViewController&gt;"
+                  moduleName = "AssessmentPrashantAdvait"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rlogixxtraining/Desktop/OBJC/AssessmentPrashantAdvait/AssessmentPrashantAdvait/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "213"
+                  endingLineNumber = "213"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
